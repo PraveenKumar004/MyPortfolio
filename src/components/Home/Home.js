@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> PRAVEEN KUMAR</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -30,7 +30,7 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} style={{ paddingBottom: 0 }}>
               <img
                 src={homeLogo}
                 alt="home pic"
